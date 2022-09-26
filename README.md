@@ -11,20 +11,20 @@ I would like to do an apprenticeship as a software developer in Zurich. To suppo
 
 💼Technical facts
 
-Languages
+🌎Languages
 - HTML5
 - CSS3
 - JavaScript
 
-Editors 
+🖊Editors 
 - Visual Studio Code
 - IntelliJ IDEA
 
-Version Control
+☑️Version Control
 - GitHub
 - Git
 
-Operating Systems
+⌨Operating Systems
 - Windows
 - iOS
 - Ubuntu
