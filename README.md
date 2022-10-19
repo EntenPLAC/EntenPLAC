@@ -35,6 +35,7 @@ I would like to do an apprenticeship as a software developer in Zurich. To suppo
 *Browsers*
 - Google Chrome
 - Safari
+- Ecosia
 
 *✉️ Contact*
 - Mail: Paul.Clauss@PLAC-Games.com
