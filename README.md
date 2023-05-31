@@ -4,7 +4,6 @@ I would like to do an apprenticeship as a software developer in Zurich. To suppo
 
 **🔭 I’m currently working on**
   - PLACGames
-  - A lot of mini projects
   
 **🌱 I'm currently learning**
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -25,20 +24,23 @@ I would like to do an apprenticeship as a software developer in Zurich. To suppo
 
 *☑️Version Control*
 - GitHub
+- GitLab
 - Git
 
 *⌨Operating Systems*
 - Windows
 - iOS
 - Ubuntu
+- Tails
 
 *Browsers*
 - Google Chrome
 - Safari
 - Ecosia
+- Tor
 
 *✉️ Contact*
-- Mail: Paul.Clauss@PLAC-Games.com
+- Mail: Paul.Clauss@gmx.ch
 - [Twitter](https://twitter.com/EntenPlac)
 
 # 📊 GitHub Stats:
