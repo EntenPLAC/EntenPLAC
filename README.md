@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Paul, 
 
-I would like to do an apprenticeship as a software developer in Zurich. My biggest projekt is, the minecraft-network PLACGames.
+I'm an programmer apprentice at swisscom in switzerland.
 
 **🔭 I’m currently working on**
   - PLACGames
