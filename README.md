@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Paul 👋</h1>
-<h3 align="center">I'm an programmer apprentice at swisscom in switzerland.</h3>
+<h3 align="center">I'm an apprentice at swisscom in switzerland.</h3>
 
 - 🔭 I’m currently working on **DVX Team Minion, SCS-INI-DOS-DVX**
 
