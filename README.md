@@ -3,7 +3,7 @@
 I'm an programmer apprentice at swisscom in switzerland.
 
 **🔭 I’m currently working on**
-  - IT-Onboarding @ DVX Team Swisscom
+  - IT-Onboarding @ DVX Team Minion, SCS-INI-DOS-DVX
   
 **🌱 I'm currently learning**
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
