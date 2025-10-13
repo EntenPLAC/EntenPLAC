@@ -26,7 +26,6 @@
 [![](https://visitcount.itsvg.in/api?id=EntenPLAC&icon=0&color=0)](https://visitcount.itsvg.in)
 
 *✉️ Contact me*
-- Mail: Paul.Clauss@gmx.ch
-- [Twitter](https://twitter.com/EntenPlac)
+- Mail: paul@paul-clauss.ch
 
 
